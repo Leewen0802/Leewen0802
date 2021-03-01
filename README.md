@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 <a href="https://t.me/leewen0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="TG" height="30" width="40" /></a>
 <a href="https://twitter.com/Leewen0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="TWITTER" height="30" width="40" /></a>
 </p>
-<div class="highlight highlight-source-diff"><pre><span class="pl-mi1"><span class="pl-mi1">+</span> 白日依山盡，</span>
-<span class="pl-md"><span class="pl-md">-</span> 黃河入海流。</span>
-<span class="pl-mc"><span class="pl-mc">!</span> 欲窮千里目，</span>
-<span class="pl-c"><span class="pl-c">#</span> 更上一層樓。</span></pre></div>
+
+<div><pre>
+<span>天作孽，</span>
+<span>猶可違，</span>
+<span>自作孽，</span>
+<span>不可活。</span>
+</pre></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leewen0802&show_icons=true&theme=gruvbox&locale=cn&layout=compact" alt="經常史的語言" /></p>
 
