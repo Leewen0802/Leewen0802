@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/leewen0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="TG" height="30" width="40" /></a>
 <a href="https://twitter.com/Leewen0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="TWITTER" height="30" width="40" /></a>
 </p>
-```diff
 
-+ 天作孽，
-- 猶可違，
-! 自作孽，
-# 不可活。
-```
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leewen0802&show_icons=true&theme=gruvbox&locale=cn&layout=compact" alt="經常史的語言" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leewen0802&show_icons=true&theme=gruvbox&locale=cn" alt="統計資料" /></p>
